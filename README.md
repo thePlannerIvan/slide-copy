@@ -48,7 +48,7 @@
 
 ### 1. 安装
 
-**DSH 用户**：无需单独勾选——通过 [Planners Form](https://github.com/thePlannerIvan/planners-form) 安装 `planners-proposal-system`、`planners-bypage` 或 `planners-ppt-hell` 时会一并安装，安装后也可单独呼叫 `slide-copy`。
+**DSH 用户**：无需单独勾选——通过 [Planners Form](https://github.com/thePlannerIvan/planners-form) 安装 `planners-proposal`、`planners-bypage` 或 `planners-ppt-hell` 时会一并安装，安装后也可单独呼叫 `slide-copy`。
 
 **Codex / Claude Code 用户：**
 
